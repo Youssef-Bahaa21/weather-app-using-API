@@ -1,0 +1,60 @@
+/*  sm  */
+@media screen and (min-width: 640px) {
+  .sm-100 {
+    width: 100%;
+  }
+  .sm-50 {
+    width: 59%;
+  }
+  .sm-33 {
+    width: 33.3333%;
+  }
+  .sm-25 {
+    width: 25%;
+  }
+}
+/*  md  */
+@media screen and (min-width: 768px) {
+  .md-100 {
+    width: 100%;
+  }
+  .md-50 {
+    width: 59%;
+  }
+  .md-33 {
+    width: 33.3333%;
+  }
+  .md-25 {
+    width: 25%;
+  }
+}
+/*  lg  */
+@media screen and (min-width: 1024px) {
+  .lg-100 {
+    width: 100%;
+  }
+  .lg-50 {
+    width: 59%;
+  }
+  .lg-33 {
+    width: 33.3333%;
+  }
+  .lg-25 {
+    width: 25%;
+  }
+}
+/*  xl  */
+@media screen and (min-width: 1280px) {
+  .xl-100 {
+    width: 100%;
+  }
+  .xl-50 {
+    width: 59%;
+  }
+  .xl-33 {
+    width: 33.3333%;
+  }
+  .xl-25 {
+    width: 25%;
+  }
+}
